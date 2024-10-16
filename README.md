@@ -1,6 +1,6 @@
 # Clean Flask with Vercel 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FwaitlistSawana%2Fclean-flask-vercel-api.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fningxzx%2Fclean-flask-vercel-api.git)
 
 这个项目能让你迅速启用一个基于 Python 的后端接口，为你的网站提供基于 Python 服务器支持。欢迎⭐！
 
@@ -26,7 +26,7 @@
 
 点击按钮立刻部署！
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FwaitlistSawana%2Fclean-flask-vercel-api.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fningxzx%2Fclean-flask-vercel-api.git)
 
 你也可以直接clone或者fork本项目，在自己的 vercel 上部署运行，并尝试访问。
 
@@ -99,7 +99,7 @@ node 20.x 版本在vercel上无法识别 python 3.9，我们在这里指定 node
 
 ## 立即部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FwaitlistSawana%2Fclean-flask-vercel-api.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fningxzx%2Fclean-flask-vercel-api.git)
 
 ## 关于我
 
